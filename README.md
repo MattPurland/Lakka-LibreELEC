@@ -1,5 +1,7 @@
 # Lakka - The DIY retro emulation console
 
+(Forked to include libraries/modules needed for GPIO access with Pyton)
+
 Lakka is a lightweight Linux distribution that transforms a small computer into a full blown emulation console.
 
 * **Powerful** - Built on top of the famous RetroArch emulator, Lakka is able to emulate a large range of hardware and has some useful features such as Braid-like rewinding, joypad hotplug and video streaming.
